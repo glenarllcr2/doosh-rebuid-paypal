@@ -1,0 +1,36 @@
+:root{
+    --bs-border-color : rgb(41, 39, 39);
+}
+
+html[lang="fa"] body {
+    font-family: 'IRANSansXV', sans-serif;
+}
+
+/* Font for Assyrian language */
+html[lang="aii"] body {
+    font-family: 'SyrcomAdiabene', sans-serif;
+    /*font-weight: 700;*/
+}
+
+.mailbox-controls.with-border {
+    border-bottom: 1px solid rgba(0, 0, 0, .125);
+}
+.mailbox-controls {
+    padding: 5px;
+}
+
+.mailbox-read-info {
+    border-bottom: 1px solid rgba(0,0,0,.125);
+    padding: 10px;
+}
+
+.mailbox-read-message {
+    padding: 10px;
+}
+
+.register-box{width:660px !important}
+
+.form-check-input {
+    height: 1.5em;
+    width: 3.0em !important;
+}

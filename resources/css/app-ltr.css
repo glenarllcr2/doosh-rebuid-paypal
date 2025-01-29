@@ -1,0 +1,5 @@
+@import '/node_modules/admin-lte/dist/css/adminlte.min.css';
+@import '/node_modules/bootstrap-icons/font/bootstrap-icons.min.css';
+@import '../fonts/fonts.css';
+
+@import 'style.css';

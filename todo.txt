@@ -1,0 +1,27 @@
+Search tab
+help tab
+دگمه های زرد رنگ همه شون عوض بشه به سیاه و متن سفید نوشته روی دگمۀ سیاه fixed
+تصاویر از دایره تبدیل به مربع بشن fixed
+لوگوی مستصیل دوش روی همۀ صفحات نمایش داده بشه   Fixed
+کاربر سی قادر به ارسال هیچ پیامی حتی ایموجی نباشه fixed
+یعنی کاربر از لینک های خود وبسایت استفاده کنه برای عقب رفتن
+رنگ background welcome page => white   fixed
+remove discard btn in send message 
+Search User in google fixed
+Add Admin page for Manage Plans
+Admin can Block,suspend, ... user
+Remove email toolbar(delete, ...) fixed
+!!!!REJECT REQUEST NOT WORKED!!!!!
+404 page
+403 page ====> 404
+Display name ===> unique fixed
+Agreement Fixed
+
+IMPORTANT
+Setting Page( age ) Fixed
+PLANS TO SERVER   IMPORTANT
+Membership
+
+term.php => registration aggreemenet=> Admin Settings
+User Report
+Page report(user agent, ...)

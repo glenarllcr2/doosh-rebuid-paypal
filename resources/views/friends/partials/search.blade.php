@@ -1,0 +1,1 @@
+<x-SearchForm mode="responsive" />
